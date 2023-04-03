@@ -12,7 +12,7 @@ fs.readdir('./', (err, files) => {
                 return;
             }
             if (stats.isDirectory() && file != '.git' && !file.includes('.')) {
-                content = content + `[${file}](./${file}/${file}.md)`;
+                content = content + `[${file}](./${file}/${file}.md)\n`;
                 console.log(`[${file}](./${file}/${file}.md)`);
                 console.log('这是一个文件夹');
             } else {
