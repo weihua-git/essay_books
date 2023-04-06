@@ -74,6 +74,14 @@ ORDER BY `order`.`id` DESC LIMIT 1000
 
 
 
+```
+1695 ms 2816 ms
+```
+
+
+
+
+
 
 
 ## 工单字段问题
@@ -88,4 +96,12 @@ select *  from `setting` where `key` = 'UPDATE_ORDER_SCORERATE';
 SELECT * FROM task_template WHERE id = 10;
 
 ```
+
+
+
+
+
+
+
+
 
