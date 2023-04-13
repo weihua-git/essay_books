@@ -98,3 +98,4 @@ where id in (2036045);
 update call_user_setting set emp_id = null,emp_name = null 
 where agent_num in(8480)
 ```
+
