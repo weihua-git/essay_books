@@ -63,9 +63,7 @@ DROP PROCEDURE IF EXISTS `db_student`.`user_stat_proc`
 
 
 
-![image-20230407151659993](C:\Users\刘伟华\Documents\temp\github-md\通用\通用.assets\image-20230407151659993.png)
-
-
+![image-20230413191028226](%E9%80%9A%E7%94%A8%EF%BC%88%E4%BE%8B%E5%A6%82mysql%E5%90%AF%E5%8A%A8%E7%AD%89%EF%BC%89.assets/image-20230413191028226.png)
 
 
 
@@ -77,11 +75,7 @@ taskkill /F /PID 21068
 
 taskkill /F /IM nginx.exe
 
-![img](https://secure2.wostatic.cn/static/x6EEXk1iPXTorLFKbDLCVG/image.png?auth_key=1681288378-7Yp4bVNNbsBS3ZcpYS49MD-0-72784392313ddc04c962e5cee3d650b2)
-
-
-
-
+![image-20230413191000217](%E9%80%9A%E7%94%A8%EF%BC%88%E4%BE%8B%E5%A6%82mysql%E5%90%AF%E5%8A%A8%E7%AD%89%EF%BC%89.assets/image-20230413191000217.png)
 
 ## test.html 测试链接scokio
 
