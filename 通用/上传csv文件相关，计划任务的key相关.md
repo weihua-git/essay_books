@@ -225,6 +225,12 @@ export class GetAllUserListDto extends GetPageDto {
 
 
 
+
+
+# 监听的key
+
+
+
 ```
 redis key 记录今天完成了第几次
 `export_all_user_byfilter:emps_${employeeInfo.id}_finishes_numbers`
@@ -241,7 +247,7 @@ export_all_user_byfilter:global_lock
 
 ```
 
-
+![image-20230413190407712](4.12.assets/image-20230413190407712.png)
 
 ```
  const params:any = {

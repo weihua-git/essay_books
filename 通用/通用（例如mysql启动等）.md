@@ -63,8 +63,6 @@ DROP PROCEDURE IF EXISTS `db_student`.`user_stat_proc`
 
 
 
-
-
 ![image-20230407151659993](C:\Users\刘伟华\Documents\temp\github-md\通用\通用.assets\image-20230407151659993.png)
 
 

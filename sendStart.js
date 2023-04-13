@@ -18,7 +18,6 @@ fs.readdir('./', (err, files) => {
             } else {
                 console.log('这是一个文件');
             }
-            console.log(index == files.length);
             if (index == files.length) {
                 console.log(content);
                 fs.writeFile('start.md', content, (err) => {
