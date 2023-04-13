@@ -18,7 +18,7 @@ WHERE user_id in (9011947,9011876)
 ![](image/image_MSFmGoVew7.png)
 
 ```typescript
-update customer_order set  customer_order.express_number = 'SF1431826065583',customer_order.order_status = 5,customer_order.shipping_time = now(),customer_order.shipping_status = 3
+update customer_order set  customer_order.express_number = 'SF1431826065583',customer_order.order_status = 5,customer_order.shipping_time = now(),customer_order.shipping_status = 3,assign_delivery_item_id=1
 where id = 2030815
 ```
 
